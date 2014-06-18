@@ -1,0 +1,56 @@
+May 03, 2014 12:30:09 PM org.apache.catalina.startup.Catalina initDirs
+Grave: Cannot find specified temporary folder at /Users/fmy/Desktop/apache-exemplos-angular/temp
+May 03, 2014 12:30:10 PM org.apache.catalina.core.AprLifecycleListener init
+Informações: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/fmy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+May 03, 2014 12:30:13 PM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["http-bio-8080"]
+May 03, 2014 12:30:13 PM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["ajp-bio-8009"]
+May 03, 2014 12:30:13 PM org.apache.catalina.startup.Catalina load
+Informações: Initialization processed in 3990 ms
+May 03, 2014 12:30:13 PM org.apache.catalina.core.StandardService startInternal
+Informações: Starting service Catalina
+May 03, 2014 12:30:13 PM org.apache.catalina.core.StandardEngine startInternal
+Informações: Starting Servlet Engine: Apache Tomcat/7.0.39
+May 03, 2014 12:30:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/.metadata
+May 03, 2014 12:30:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/docs
+May 03, 2014 12:30:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/examples
+May 03, 2014 12:30:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/exemploIonic
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/exemploTopcoat
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/host-manager
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/manager
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/myApp
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/ROOT
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/topcoat-0.8.0
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-exemplos-angular/webapps/treinamentoAngular
+May 03, 2014 12:30:16 PM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["http-bio-8080"]
+May 03, 2014 12:30:16 PM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["ajp-bio-8009"]
+May 03, 2014 12:30:16 PM org.apache.catalina.startup.Catalina start
+Informações: Server startup in 3236 ms
+May 03, 2014 12:30:49 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["http-bio-8080"]
+May 03, 2014 12:30:49 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["ajp-bio-8009"]
+May 03, 2014 12:30:49 PM org.apache.catalina.core.StandardService stopInternal
+Informações: Stopping service Catalina
+May 03, 2014 12:30:49 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["http-bio-8080"]
+May 03, 2014 12:30:49 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["ajp-bio-8009"]
+May 03, 2014 12:30:49 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["http-bio-8080"]
+May 03, 2014 12:30:49 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["ajp-bio-8009"]

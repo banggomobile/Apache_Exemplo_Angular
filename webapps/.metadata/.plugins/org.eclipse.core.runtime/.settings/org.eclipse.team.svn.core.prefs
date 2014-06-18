@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/b0be11f5f2fd0012152587c9ddec74a7=b0be11f5f2fd0012152587c9ddec74a7;http\://175.25.65.31/repos/tf_sdc;http\://175.25.65.31/repos/tf_sdc;branches;tags;trunk;true;ff1af463-5843-40b9-8fce-b5e0e085783b;http\://175.25.65.31/repos/tf_sdc;;false;;;0

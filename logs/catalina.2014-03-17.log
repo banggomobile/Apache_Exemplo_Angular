@@ -1,0 +1,60 @@
+Mar 17, 2014 12:07:08 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["http-bio-8080"]
+Mar 17, 2014 12:07:09 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mar 17, 2014 12:07:09 PM org.apache.catalina.core.StandardService stopInternal
+Informações: Stopping service Catalina
+Mar 17, 2014 12:07:09 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["http-bio-8080"]
+Mar 17, 2014 12:07:09 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mar 17, 2014 12:07:09 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["http-bio-8080"]
+Mar 17, 2014 12:07:09 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["ajp-bio-8009"]
+Mar 17, 2014 12:16:31 PM org.apache.catalina.startup.Catalina initDirs
+Grave: Cannot find specified temporary folder at /Users/fmy/Desktop/apache-tomcat-7.0.39/temp
+Mar 17, 2014 12:16:33 PM org.apache.catalina.core.AprLifecycleListener init
+Informações: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/fmy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Mar 17, 2014 12:16:36 PM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["http-bio-8080"]
+Mar 17, 2014 12:16:36 PM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 17, 2014 12:16:36 PM org.apache.catalina.startup.Catalina load
+Informações: Initialization processed in 5385 ms
+Mar 17, 2014 12:16:36 PM org.apache.catalina.core.StandardService startInternal
+Informações: Starting service Catalina
+Mar 17, 2014 12:16:36 PM org.apache.catalina.core.StandardEngine startInternal
+Informações: Starting Servlet Engine: Apache Tomcat/7.0.39
+Mar 17, 2014 12:16:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/.metadata
+Mar 17, 2014 12:16:38 PM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+Informações: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [350] milliseconds.
+Mar 17, 2014 12:16:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/docs
+Mar 17, 2014 12:16:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/examples
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/exemploIonic
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/exemploTopcoat
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/host-manager
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/ionicTeste
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/manager
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/myApp1
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/ROOT
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/topcoat-0.8.0
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/treinamentoAngular
+Mar 17, 2014 12:16:39 PM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["http-bio-8080"]
+Mar 17, 2014 12:16:39 PM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 17, 2014 12:16:39 PM org.apache.catalina.startup.Catalina start
+Informações: Server startup in 3338 ms

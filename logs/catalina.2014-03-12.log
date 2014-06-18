@@ -1,0 +1,106 @@
+Mar 12, 2014 11:56:28 AM org.apache.catalina.startup.Catalina initDirs
+Grave: Cannot find specified temporary folder at /Users/fmy/Desktop/apache-tomcat-7.0.39/temp
+Mar 12, 2014 11:56:29 AM org.apache.catalina.core.AprLifecycleListener init
+Informações: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/fmy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Mar 12, 2014 11:56:31 AM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 11:56:31 AM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 11:56:31 AM org.apache.catalina.startup.Catalina load
+Informações: Initialization processed in 2895 ms
+Mar 12, 2014 11:56:31 AM org.apache.catalina.core.StandardService startInternal
+Informações: Starting service Catalina
+Mar 12, 2014 11:56:31 AM org.apache.catalina.core.StandardEngine startInternal
+Informações: Starting Servlet Engine: Apache Tomcat/7.0.39
+Mar 12, 2014 11:56:31 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/.metadata
+Mar 12, 2014 11:56:32 AM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+Informações: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [342] milliseconds.
+Mar 12, 2014 11:56:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/docs
+Mar 12, 2014 11:56:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/examples
+Mar 12, 2014 11:56:33 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/host-manager
+Mar 12, 2014 11:56:33 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/manager
+Mar 12, 2014 11:56:33 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/MyApp
+Mar 12, 2014 11:56:33 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/ROOT
+Mar 12, 2014 11:56:33 AM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/touch-2.3.1
+Mar 12, 2014 11:56:33 AM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 11:56:33 AM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 11:56:33 AM org.apache.catalina.startup.Catalina start
+Informações: Server startup in 2371 ms
+Mar 12, 2014 12:18:02 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 12:18:02 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 12:18:02 PM org.apache.catalina.core.StandardService stopInternal
+Informações: Stopping service Catalina
+Mar 12, 2014 12:18:02 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 12:18:02 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 12:18:02 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 12:18:02 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 12:24:51 PM org.apache.catalina.startup.Catalina initDirs
+Grave: Cannot find specified temporary folder at /Users/fmy/Desktop/apache-tomcat-7.0.39/temp
+Mar 12, 2014 12:24:52 PM org.apache.catalina.core.AprLifecycleListener init
+Informações: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/fmy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Mar 12, 2014 12:24:52 PM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 12:24:52 PM org.apache.coyote.AbstractProtocol init
+Informações: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 12:24:52 PM org.apache.catalina.startup.Catalina load
+Informações: Initialization processed in 1533 ms
+Mar 12, 2014 12:24:53 PM org.apache.catalina.core.StandardService startInternal
+Informações: Starting service Catalina
+Mar 12, 2014 12:24:53 PM org.apache.catalina.core.StandardEngine startInternal
+Informações: Starting Servlet Engine: Apache Tomcat/7.0.39
+Mar 12, 2014 12:24:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/.metadata
+Mar 12, 2014 12:24:53 PM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+Informações: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [343] milliseconds.
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/docs
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/examples
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/Exemplo1
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/host-manager
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/manager
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/MyApp
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/ROOT
+Mar 12, 2014 12:24:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+Informações: Deploying web application directory /Users/fmy/Desktop/apache-tomcat-7.0.39/webapps/touch-2.3.1
+Mar 12, 2014 12:24:54 PM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 12:24:55 PM org.apache.coyote.AbstractProtocol start
+Informações: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 12:24:55 PM org.apache.catalina.startup.Catalina start
+Informações: Server startup in 2044 ms
+Mar 12, 2014 3:19:12 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 3:19:12 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 3:19:12 PM org.apache.catalina.core.StandardService stopInternal
+Informações: Stopping service Catalina
+Mar 12, 2014 3:19:12 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 3:19:12 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mar 12, 2014 3:19:12 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["http-bio-8080"]
+Mar 12, 2014 3:19:12 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["ajp-bio-8009"]
