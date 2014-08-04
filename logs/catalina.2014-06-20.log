@@ -40,3 +40,17 @@ Jun 20, 2014 3:30:30 PM org.apache.coyote.AbstractProtocol start
 Informações: Starting ProtocolHandler ["ajp-bio-8009"]
 Jun 20, 2014 3:30:30 PM org.apache.catalina.startup.Catalina start
 Informações: Server startup in 2887 ms
+Jun 20, 2014 6:11:30 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["http-bio-8080"]
+Jun 20, 2014 6:11:30 PM org.apache.coyote.AbstractProtocol pause
+Informações: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jun 20, 2014 6:11:30 PM org.apache.catalina.core.StandardService stopInternal
+Informações: Stopping service Catalina
+Jun 20, 2014 6:11:30 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["http-bio-8080"]
+Jun 20, 2014 6:11:30 PM org.apache.coyote.AbstractProtocol stop
+Informações: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jun 20, 2014 6:11:30 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["http-bio-8080"]
+Jun 20, 2014 6:11:30 PM org.apache.coyote.AbstractProtocol destroy
+Informações: Destroying ProtocolHandler ["ajp-bio-8009"]
